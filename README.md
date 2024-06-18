@@ -13,7 +13,7 @@ This project is a simple square destruction console game.
 
 ## Technologies Used
 
-- **.NET**
+- **.NET 6 or latest **
 
 ## Getting Started
 
