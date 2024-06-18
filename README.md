@@ -8,7 +8,7 @@ This project is a simple square destruction console game.
  Click the image to see the demonstration video
 
  
-[<img src="https://github.com/Ahmed2000Github/ChatApp/assets/93035933/fdd90d17-b43b-4114-8ca3-7147271b0ed" width="300" title="game video"> ](https://raw.githubusercontent.com/Ahmed2000Github/ChatApp/master/ChatApp-demo.mp)
+[<img src="https://raw.githubusercontent.com/Ahmed2000Github/SquareDestructionGame/master/SquareDestructionGame/demo/square-desctruction-game-Thumbnail.jpg" width="400" title="game video"> ](https://raw.githubusercontent.com/Ahmed2000Github/SquareDestructionGame/master/SquareDestructionGame/demo/square-desctruction-game.mp4)
 
 
 ## Technologies Used
